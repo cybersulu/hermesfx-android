@@ -1,0 +1,8 @@
+{
+  "name": "Hermes FX",
+  "description": "Real-time and offline currency exchange calculator with user-defined refresh cadence, favorite currency pairs, homescreen widget, and Material 3 Expressive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
